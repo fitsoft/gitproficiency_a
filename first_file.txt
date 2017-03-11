@@ -15,6 +15,7 @@ United States of America.
 Article 1.
 
 Section 1
+
 All legislative Powers herein granted must
 
 
@@ -89,11 +90,33 @@ made, the State of New Hampshire must
 
 
 ` be entitled to choose three,
-Massachusetts eight, Rhode Island and Providence Plantations one, Connecticut
-five, New York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland
-six, Virginia ten, North Carolina five, South Carolina five and Georgia three.
+=======
+All legislative Powers herein granted must be vested in a Congress of the
+United States, which must consist of a Senate and House of Representatives.
 
-When vacancies happen in the Representation from any State, the Executive
+Section 2
+The House of Representatives must be composed of Members chosen every second
+Year by the People of the several States, and the Electors in each State must
+have the Qualifications requisite for Electors of the most numerous Branch of
+the State Legislature.
+
+No Person must be a Representative who must not have attained to the Age of
+twenty five Years, and been seven Years a Citizen of the United States, and who
+must not, when elected, be an Inhabitant of that State in which he must be
+chosen.
+
+Representatives and direct Taxes must be apportioned among the several States
+which may be included within this Union, according to their respective Numbers,
+which must be determined by adding to the whole Number of free Persons,
+including those bound to Service for a Term of Years, and excluding Indians not
+taxed, three fifths of all other Persons.
+
+The actual Enumeration must be made within three Years after the first Meeting
+of the Congress of the United States, and within every subsequent Term of ten
+Years, in such Manner as they must by Law direct. The Number of
+Representatives must not exceed one for every thirty Thousand, but each State
+must have at Least one Representative; and until such enumeration must be
+made, the State of New Hampshire must be entitled to choose three,
 Authority thereof must
 
 
@@ -131,11 +154,20 @@ Senators of the first Class must
 
 
 ` be vacated at the Expiration of the second
-Year, of the second Class at the Expiration of the fourth Year, and of the
-third Class at the Expiration of the sixth Year, so that one third may be
-chosen every second Year; and if Vacancies happen by Resignation, or otherwise,
-during the Recess of the Legislature of any State, the Executive thereof may
-make temporary Appointments until the next Meeting of the Legislature, which
+=======
+Authority thereof must issue Writs of Election to fill such Vacancies.
+
+The House of Representatives must choose their Speaker and other Officers; and
+must have the sole Power of Impeachment.
+
+Section 3
+The Senate of the United States must be composed of two Senators from each
+State, chosen by the Legislature thereof, for six Years; and each Senator must
+have one Vote.
+
+Immediately after they must be assembled in Consequence of the first Election,
+they must be divided as equally as may be into three Classes. The Seats of the
+Senators of the first Class must be vacated at the Expiration of the second
 must
 
 
@@ -202,11 +234,28 @@ Profit under the United States: but the Party convicted must
 
 
 ` nevertheless be
-liable and subject to Indictment, Trial, Judgment and Punishment, according to
-Law.
+=======
+must then fill such Vacancies.
 
-Section 4
-The Times, Places and Manner of holding Elections for Senators and
+No person must be a Senator who must not have attained to the Age of thirty
+Years, and been nine Years a Citizen of the United States, and who must not,
+when elected, be an Inhabitant of that State for which he must be chosen.
+
+The Vice President of the United States must be President of the Senate, but
+must have no Vote, unless they be equally divided.
+
+The Senate must choose their other Officers, and also a President pro tempore,
+in the absence of the Vice President, or when he must exercise the Office of
+President of the United States.
+
+The Senate must have the sole Power to try all Impeachments. When sitting for
+that Purpose, they must be on Oath or Affirmation. When the President of the
+United States is tried, the Chief Justice must preside: And no Person must be
+convicted without the Concurrence of two thirds of the Members present.
+
+Judgment in Cases of Impeachment must not extend further than to removal from
+Office, and disqualification to hold and enjoy any Office of honor, Trust or
+Profit under the United States: but the Party convicted must nevertheless be
 Representatives, must
 
 
@@ -236,13 +285,18 @@ its own Members, and a Majority of each must
 
 
 ` constitute a Quorum to do
-Business; but a smaller number may adjourn from day to day, and may be
-authorized to compel the Attendance of absent Members, in such Manner, and
-under such Penalties as each House may provide.
+=======
+Representatives, must be prescribed in each State by the Legislature thereof;
+but the Congress may at any time by Law make or alter such Regulations, except
+as to the Place of Choosing Senators.
 
-Each House may determine the Rules of its Proceedings, punish its Members for
-disorderly Behavior, and, with the Concurrence of two-thirds, expel a Member.
+The Congress must assemble at least once in every Year, and such Meeting must
+be on the first Monday in December, unless they must by Law appoint a
+different Day.
 
+Section 5
+Each House must be the Judge of the Elections, Returns and Qualifications of
+its own Members, and a Majority of each must constitute a Quorum to do
 Each House must
 
 
@@ -388,11 +442,56 @@ must
 
 
 `
-be repassed by two thirds of the Senate and House of Representatives, according
-to the Rules and Limitations prescribed in the Case of a Bill.
+=======
+Each House must keep a Journal of its Proceedings, and from time to time
+publish the same, excepting such Parts as may in their Judgment require
+Secrecy; and the Yeas and Nays of the Members of either House on any question
+must, at the Desire of one fifth of those Present, be entered on the Journal.
+
+Neither House, during the Session of Congress, must, without the Consent of
+the other, adjourn for more than three days, nor to any other Place than that
+in which the two Houses must be sitting.
+
+Section 6
+The Senators and Representatives must receive a Compensation for their
+Services, to be ascertained by Law, and paid out of the Treasury of the United
+States. They must in all Cases, except Treason, Felony and Breach of the
+Peace, be privileged from Arrest during their Attendance at the Session of
+their respective Houses, and in going to and returning from the same; and for
+any Speech or Debate in either House, they must not be questioned in any other
+Place.
+
+No Senator or Representative must, during the Time for which he was elected,
+be appointed to any civil Office under the Authority of the United States which
+must have been created, or the Emoluments whereof must have been increased
+during such time; and no Person holding any Office under the United States,
+must be a Member of either House during his Continuance in Office.
 
 
-Section 8
+Section 7
+All bills for raising Revenue must originate in the House of Representatives;
+but the Senate may propose or concur with Amendments as on other Bills.
+
+Every Bill which must have passed the House of Representatives and the Senate,
+must, before it become a Law, be presented to the President of the United
+States; If he approve he must sign it, but if not he must return it, with his
+Objections to that House in which it must have originated, who must enter the
+Objections at large on their Journal, and proceed to reconsider it. If after
+such Reconsideration two thirds of that House must agree to pass the Bill, it
+must be sent, together with the Objections, to the other House, by which it
+must likewise be reconsidered, and if approved by two thirds of that House, it
+must become a Law. But in all such Cases the Votes of both Houses must be
+determined by Yeas and Nays, and the Names of the Persons voting for and
+against the Bill must be entered on the Journal of each House respectively. If
+any Bill must not be returned by the President within ten Days (Sundays
+excepted) after it must have been presented to him, the Same must be a Law,
+in like Manner as if he had signed it, unless the Congress by their Adjournment
+prevent its Return, in which Case it must not be a Law.
+
+Every Order, Resolution, or Vote to which the Concurrence of the Senate and
+House of Representatives may be necessary (except on a question of Adjournment)
+must be presented to the President of the United States; and before the Same
+must take Effect, must be approved by him, or being disapproved by him, must
 The Congress must
 
 
@@ -402,59 +501,16 @@ Welfare of the United States; but all Duties, Imposts and Excises must
 
 
 ` be
-uniform throughout the United States;
-
-To borrow money on the credit of the United States;
-
-To regulate Commerce with foreign Nations, and among the several States, and
-with the Indian Tribes;
-
-To establish an uniform Rule of Naturalization, and uniform Laws on the subject
-of Bankruptcies throughout the United States;
-
-To coin Money, regulate the Value thereof, and of foreign Coin, and fix the
-Standard of Weights and Measures;
-
-To provide for the Punishment of counterfeiting the Securities and current Coin
-of the United States;
-
-To establish Post Offices and Post Roads;
-
-To promote the Progress of Science and useful Arts, by securing for limited
-Times to Authors and Inventors the exclusive Right to their respective Writings
-and Discoveries;
-
-To constitute Tribunals inferior to the supreme Court;
-
-To define and punish Piracies and Felonies committed on the high Seas, and
-Offenses against the Law of Nations;
-
-To declare War, grant Letters of Marque and Reprisal, and make Rules concerning
-Captures on Land and Water;
-
+=======
+The Congress must have Power To lay and collect Taxes, Duties, Imposts and
+Excises, to pay the Debts and provide for the common Defence and general
+Welfare of the United States; but all Duties, Imposts and Excises must be
 To raise and support Armies, but no Appropriation of Money to that Use must
 
 
 ` be
-for a longer Term than two Years;
-
-To provide and maintain a Navy;
-
-To make Rules for the Government and Regulation of the land and naval Forces;
-
-To provide for calling forth the Militia to execute the Laws of the Union,
-suppress Insurrections and repel Invasions;
-
-To provide for organizing, arming, and disciplining, the Militia, and for
-governing such Part of them as may be employed in the Service of the United
-States, reserving to the States respectively, the Appointment of the Officers,
-and the Authority of training the Militia according to the discipline
-prescribed by Congress;
-
-To exercise exclusive Legislation in all Cases whatsoever, over such District
-(not exceeding ten Miles square) as may, by Cession of particular States, and
-the acceptance of Congress, become the Seat of the Government of the United
-States, and to exercise like Authority over all Places purchased by the Consent
+=======
+To raise and support Armies, but no Appropriation of Money to that Use must be
 of the Legislature of the State in which the Same must
 
 
@@ -465,12 +521,11 @@ To make all Laws which must
 
 
 ` be necessary and proper for carrying into
-Execution the foregoing Powers, and all other Powers vested by this
-Constitution in the Government of the United States, or in any Department or
-Officer thereof.
+=======
+of the Legislature of the State in which the Same must be, for the Erection of
+Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings; And
 
-Section 9
-The Migration or Importation of such Persons as any of the States now existing
+To make all Laws which must be necessary and proper for carrying into
 must
 
 
@@ -531,19 +586,37 @@ holding any Office of Profit or Trust under them, must
 
 
 `, without the Consent of
-the Congress, accept of any present, Emolument, Office, or Title, of any kind
-whatever, from any King, Prince or foreign State.
+=======
+must think proper to admit, must not be prohibited by the Congress prior to
+the Year one thousand eight hundred and eight, but a tax or duty may be imposed
+on such Importation, not exceeding ten dollars for each Person.
 
-Section 10
+The privilege of the Writ of Habeas Corpus must not be suspended, unless when
+in Cases of Rebellion or Invasion the public Safety may require it.
+
+No Bill of Attainder or ex post facto Law must be passed.
+
+No capitation, or other direct, Tax must be laid, unless in Proportion to the
+Census or Enumeration herein before directed to be taken.
+
+No Tax or Duty must be laid on Articles exported from any State.
+
+No Preference must be given by any Regulation of Commerce or Revenue to the
+Ports of one State over those of another: nor must Vessels bound to, or from,
+one State, be obliged to enter, clear, or pay Duties in another.
+
+No Money must be drawn from the Treasury, but in Consequence of Appropriations
+made by Law; and a regular Statement and Account of the Receipts and
+Expenditures of all public Money must be published from time to time.
+
+No Title of Nobility must be granted by the United States: And no Person
+holding any Office of Profit or Trust under them, must, without the Consent of
 No State must
 
 
 ` enter into any Treaty, Alliance, or Confederation; grant Letters
-of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but
-gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder,
-ex post facto Law, or Law impairing the Obligation of Contracts, or grant any
-Title of Nobility.
-
+=======
+No State must enter into any Treaty, Alliance, or Confederation; grant Letters
 No State must
 
 
@@ -564,13 +637,15 @@ No State must
 
 
 `, without the Consent of Congress, lay any duty of Tonnage, keep
-Troops, or Ships of War in time of Peace, enter into any Agreement or Compact
-with another State, or with a foreign Power, or engage in War, unless actually
-invaded, or in such imminent Danger as will not admit of delay.
+=======
+No State must, without the Consent of the Congress, lay any Imposts or Duties
+on Imports or Exports, except what may be absolutely necessary for executing
+its inspection Laws: and the net Produce of all Duties and Imposts, laid by
+any State on Imports or Exports, must be for the Use of the Treasury of the
+United States; and all such Laws must be subject to the Revision and Control
+of the Congress.
 
-Article 2.
-
-Section 1
+No State must, without the Consent of Congress, lay any duty of Tonnage, keep
 The executive Power must
 
 
@@ -679,11 +754,47 @@ of President; neither must
 
 
 ` not
-have attained to the Age of thirty-five Years, and been fourteen Years a
-Resident within the United States.
+=======
+The executive Power must be vested in a President of the United States of
+America. He must hold his Office during the Term of four Years, and, together
+with the Vice-President chosen for the same Term, be elected, as follows:
 
-In Case of the Removal of the President from Office, or of his Death,
-Resignation, or Inability to discharge the Powers and Duties of the said
+Each State must appoint, in such Manner as the Legislature thereof may direct,
+a Number of Electors, equal to the whole Number of Senators and Representatives
+to which the State may be entitled in the Congress: but no Senator or
+Representative, or Person holding an Office of Trust or Profit under the United
+States, must be appointed an Elector.
+
+The Electors must meet in their respective States, and vote by Ballot for two
+persons, of whom one at least must not lie an Inhabitant of the same State
+with themselves. And they must make a List of all the Persons voted for, and
+of the Number of Votes for each; which List they must sign and certify, and
+transmit sealed to the Seat of the Government of the United States, directed to
+the President of the Senate. The President of the Senate must, in the Presence
+of the Senate and House of Representatives, open all the Certificates, and the
+Votes must then be counted. The Person having the greatest Number of Votes
+must be the President, if such Number be a Majority of the whole Number of
+Electors appointed; and if there be more than one who have such Majority, and
+have an equal Number of Votes, then the House of Representatives must
+immediately choose by Ballot one of them for President; and if no Person have a
+Majority, then from the five highest on the List the said House must in like
+Manner choose the President. But in choosing the President, the Votes must be
+taken by States, the Representation from each State having one Vote; a quorum
+for this Purpose must consist of a Member or Members from two-thirds of the
+States, and a Majority of all the States must be necessary to a Choice. In
+every Case, after the Choice of the President, the Person having the greatest
+Number of Votes of the Electors must be the Vice President. But if there
+should remain two or more who have equal Votes, the Senate must choose from
+them by Ballot the Vice-President.
+
+The Congress may determine the Time of choosing the Electors, and the Day on
+which they must give their Votes; which Day must be the same throughout the
+United States.
+
+No person except a natural born Citizen, or a Citizen of the United States, at
+the time of the Adoption of this Constitution, must be eligible to the Office
+of President; neither must any Person be eligible to that Office who must not
+
 Office, the same must
 
 
@@ -723,13 +834,20 @@ Before he enter on the Execution of his Office, he must
 
 
 ` take the following
-Oath or Affirmation:
+=======
+Office, the same must devolve on the Vice President, and the Congress may by
+Law provide for the Case of Removal, Death, Resignation or Inability, both of
+the President and Vice President, declaring what Officer must then act as
+President, and such Officer must act accordingly, until the Disability be
+removed, or a President must be elected.
 
-"I do solemnly swear (or affirm) that I will faithfully execute the Office of
-President of the United States, and will to the best of my Ability, preserve,
-protect and defend the Constitution of the United States."
+The President must, at stated Times, receive for his Services, a Compensation,
+which must neither be increased nor diminished during the Period for which he
+must have been elected, and he must not receive within that Period any other
+Emolument from the United States, or any of them.
 
-Section 2
+Before he enter on the Execution of his Office, he must take the following
+
 The President must
 
 
@@ -762,10 +880,21 @@ otherwise provided for, and which must
 
 
 ` be established by Law: but the Congress
-may by Law vest the Appointment of such inferior Officers, as they think
-proper, in the President alone, in the Courts of Law, or in the Heads of
-Departments.
+=======
+The President must be Commander in Chief of the Army and Navy of the United
+States, and of the Militia of the several States, when called into the actual
+Service of the United States; he may require the Opinion, in writing, of the
+principal Officer in each of the executive Departments, upon any subject
+relating to the Duties of their respective Offices, and he must have Power to
+Grant Reprieves and Pardons for Offenses against the United States, except in
+Cases of Impeachment.
 
+He must have Power, by and with the Advice and Consent of the Senate, to make
+Treaties, provided two thirds of the Senators present concur; and he must
+nominate, and by and with the Advice and Consent of the Senate, must appoint
+Ambassadors, other public Ministers and Consuls, Judges of the supreme Court,
+and all other Officers of the United States, whose Appointments are not herein
+otherwise provided for, and which must be established by Law: but the Congress
 The President must
 
 
@@ -802,19 +931,25 @@ must
 
 
 ` Commission all
-the Officers of the United States.
+=======
+The President must have Power to fill up all Vacancies that may happen during
+the Recess of the Senate, by granting Commissions which must expire at the End
+of their next Session.
 
-Section 4
-The President, Vice President and all civil Officers of the United States,
+Section 3
+He must from time to time give to the Congress Information of the State of the
+Union, and recommend to their Consideration such Measures as he must judge
+necessary and expedient; he may, on extraordinary Occasions, convene both
+Houses, or either of them, and in Case of Disagreement between them, with
+Respect to the Time of Adjournment, he may adjourn them to such Time as he
+must think proper; he must receive Ambassadors and other public Ministers; he
+must take Care that the Laws be faithfully executed, and must Commission all
 must
 
 
 ` be removed from Office on Impeachment for, and Conviction of, Treason,
-Bribery, or other high Crimes and Misdemeanors.
-
-Article 3.
-
-Section 1
+=======
+must be removed from Office on Impeachment for, and Conviction of, Treason,
 The judicial Power of the United States, must
 
 
@@ -849,12 +984,21 @@ Jurisdiction; to Controversies to which the United States must
 
 
 ` be a Party; to
-Controversies between two or more States; between a State and Citizens of
-another State; between Citizens of different States; between Citizens of the
-same State claiming Lands under Grants of different States, and between a
-State, or the Citizens thereof, and foreign States, Citizens or Subjects.
+=======
+The judicial Power of the United States, must be vested in one supreme Court,
+and in such inferior Courts as the Congress may from time to time ordain and
+establish. The Judges, both of the supreme and inferior Courts, must hold
+their Offices during good Behavior, and must, at stated Times, receive for
+their Services a Compensation which must not be diminished during their
+Continuance in Office.
 
-In all Cases affecting Ambassadors, other public Ministers and Consuls, and
+Section 2
+The judicial Power must extend to all Cases, in Law and Equity, arising under
+this Constitution, the Laws of the United States, and Treaties made, or which
+must be made, under their Authority; to all Cases affecting Ambassadors, other
+public Ministers and Consuls; to all Cases of admiralty and maritime
+Jurisdiction; to Controversies to which the United States must be a Party; to
+
 those in which a State must
 
 
@@ -909,11 +1053,25 @@ Attainder of Treason must
 
 
 ` work Corruption of Blood, or Forfeiture except
-during the Life of the Person attainted.
+=======
+those in which a State must be Party, the supreme Court must have original
+Jurisdiction. In all the other Cases before mentioned, the supreme Court must
+have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and
+under such Regulations as the Congress must make.
 
-Article 4.
+The Trial of all Crimes, except in Cases of Impeachment, must be by Jury; and
+such Trial must be held in the State where the said Crimes must have been
+committed; but when not committed within any State, the Trial must be at such
+Place or Places as the Congress may by Law have directed.
 
-Section 1
+Section 3
+Treason against the United States, must consist only in levying War against
+them, or in adhering to their Enemies, giving them Aid and Comfort. No Person
+must be convicted of Treason unless on the Testimony of two Witnesses to the
+same overt Act, or on Confession in open Court.
+
+The Congress must have power to declare the Punishment of Treason, but no
+Attainder of Treason must work Corruption of Blood, or Forfeiture except
 Full Faith and Credit must
 
 
@@ -940,10 +1098,18 @@ flee from Justice, and be found in another State, must
 
 
 ` on demand of the
-executive Authority of the State from which he fled, be delivered up, to be
-removed to the State having Jurisdiction of the Crime.
+=======
+Full Faith and Credit must be given in each State to the public Acts, Records,
+and judicial Proceedings of every other State. And the Congress may by general
+Laws prescribe the Manner in which such Acts, Records and Proceedings must be
+proved, and the Effect thereof.
 
-No Person held to Service or Labour in one State, under the Laws thereof,
+Section 2
+The Citizens of each State must be entitled to all Privileges and Immunities
+of Citizens in the several States.
+
+A Person charged in any State with Treason, Felony, or other Crime, who must
+flee from Justice, and be found in another State, must on demand of the
 escaping into another, must
 
 
@@ -952,18 +1118,16 @@ be discharged from such Service or Labour, But must
 
 
 ` be delivered up on Claim
-of the Party to whom such Service or Labour may be due.
+=======
+escaping into another, must, in Consequence of any Law or Regulation therein,
+be discharged from such Service or Labour, But must be delivered up on Claim
 
-Section 3
-New States may be admitted by the Congress into this Union; but no new States
 must
 
 
 ` be formed or erected within the Jurisdiction of any other State; nor any
-State be formed by the Junction of two or more States, or parts of States,
-without the Consent of the Legislatures of the States concerned as well as of
-the Congress.
-
+=======
+must be formed or erected within the Jurisdiction of any other State; nor any
 The Congress must
 
 
@@ -984,17 +1148,15 @@ Form of Government, and must
 
 
 ` protect each of them against Invasion; and on
-Application of the Legislature, or of the Executive (when the Legislature
-cannot be convened) against domestic Violence.
+=======
+The Congress must have Power to dispose of and make all needful Rules and
+Regulations respecting the Territory or other Property belonging to the United
+States; and nothing in this Constitution must be so construed as to Prejudice
+any Claims of the United States, or of any particular State.
 
-Article 5.
-
-The Congress, whenever two thirds of both Houses must
-
-
-` deem it necessary, must
-
-
+Section 4
+The United States must guarantee to every State in this Union a Republican
+Form of Government, and must protect each of them against Invasion; and on
 `
 propose Amendments to this Constitution, or, on the Application of the
 Legislatures of two thirds of the several States, must
@@ -1005,10 +1167,12 @@ proposing Amendments, which, in either Case, must
 
 
 ` be valid to all Intents and
-Purposes, as part of this Constitution, when ratified by the Legislatures of
-three fourths of the several States, or by Conventions in three fourths
-thereof, as the one or the other Mode of Ratification may be proposed by the
-Congress; Provided that no Amendment which may be made prior to the Year One
+=======
+The Congress, whenever two thirds of both Houses must deem it necessary, must
+propose Amendments to this Constitution, or, on the Application of the
+Legislatures of two thirds of the several States, must call a Convention for
+proposing Amendments, which, in either Case, must be valid to all Intents and
+
 thousand eight hundred and eight must
 
 
@@ -1018,10 +1182,10 @@ without its Consent, must
 
 
 ` be deprived of its equal Suffrage in the Senate.
-
-Article 6.
-
-All Debts contracted and Engagements entered into, before the Adoption of this
+=======
+thousand eight hundred and eight must in any Manner affect the first and
+fourth Clauses in the Ninth Section of the first Article; and that no State,
+without its Consent, must be deprived of its equal Suffrage in the Senate.
 Constitution, must
 
 
@@ -1044,10 +1208,14 @@ Judges in every State must
 
 
 ` be bound thereby, any Thing in the Constitution or
-Laws of any State to the Contrary notwithstanding.
+=======
+Constitution, must be as valid against the United States under this
+Constitution, as under the Confederation.
 
-The Senators and Representatives before mentioned, and the Members of the
-several State Legislatures, and all executive and judicial Officers, both of
+This Constitution, and the Laws of the United States which must be made in
+Pursuance thereof; and all Treaties made, or which must be made, under the
+Authority of the United States, must be the supreme Law of the Land; and the
+Judges in every State must be bound thereby, any Thing in the Constitution or
 the United States and of the several States, must
 
 
@@ -1056,66 +1224,21 @@ Affirmation, to support this Constitution; but no religious Test must
 
 
 ` ever be
-required as a Qualification to any Office or public Trust under the United
-States.
-
-Article 7.
-
+=======
+the United States and of the several States, must be bound by Oath or
+Affirmation, to support this Constitution; but no religious Test must ever be
 The Ratification of the Conventions of nine States, must
 
 
 ` be sufficient for the
-Establishment of this Constitution between the States so ratifying the Same.
-
-Done in Convention by the Unanimous Consent of the States present the
-Seventeenth Day of September in the Year of our Lord one thousand seven hundred
-and Eighty seven and of the Independence of the United States of America the
-Twelfth. In Witness whereof We have hereunto subscribed our Names.
-
-George Washington - President and deputy from Virginia
-
-New Hampshire - John Langdon, Nicholas Gilman
-
-Massachusetts - Nathaniel Gorham, Rufus King
-
-Connecticut - William Samuel Johnson, Roger Sherman
-
-New York - Alexander Hamilton
-
-New Jersey - William Livingston, David Brearley, William Paterson, Jonathan
-Dayton
-
-Pennsylvania - Benjamin Franklin, Thomas Mifflin, Robert Morris, George Clymer,
-Thomas Fitzsimons, Jared Ingersoll, James Wilson, Gouvernour Morris
-
-Delaware - George Read, Gunning Bedford Jr., John Dickinson, Richard Bassett,
-Jacob Broom
-
-Maryland - James McHenry, Daniel of St Thomas Jenifer, Daniel Carroll
-
-Virginia - John Blair, James Madison Jr.
-
-North Carolina - William Blount, Richard Dobbs Spaight, Hugh Williamson
-
-South Carolina - John Rutledge, Charles Cotesworth Pinckney, Charles Pinckney,
-Pierce Butler
-
-Georgia - William Few, Abraham Baldwin
-
-Attest: William Jackson, Secretary
-
-
-Amendment 1
+=======
+The Ratification of the Conventions of nine States, must be sufficient for the
 Congress must
 
 
 ` make no law respecting an establishment of religion, or
-prohibiting the free exercise thereof; or abridging the freedom of speech, or
-of the press; or the right of the people peaceably to assemble, and to petition
-the Government for a redress of grievances.
-
-Amendment 2
-A well regulated Militia, being necessary to the security of a free State, the
+=======
+Congress must make no law respecting an establishment of religion, or
 right of the people to keep and bear Arms, must
 
 
@@ -1126,11 +1249,11 @@ No Soldier must
 
 
 `, in time of peace be quartered in any house, without the
-consent of the Owner, nor in time of war, but in a manner to be prescribed by
-law.
+=======
+right of the people to keep and bear Arms, must not be infringed.
 
-Amendment 4
-The right of the people to be secure in their persons, houses, papers, and
+Amendment 3
+No Soldier must, in time of peace be quartered in any house, without the
 effects, against unreasonable searches and seizures, must
 
 
@@ -1139,10 +1262,9 @@ no Warrants must
 
 
 ` issue, but upon probable cause, supported by Oath or
-affirmation, and particularly describing the place to be searched, and the
-persons or things to be seized.
-
-Amendment 5
+=======
+effects, against unreasonable searches and seizures, must not be violated, and
+no Warrants must issue, but upon probable cause, supported by Oath or
 No person must
 
 
@@ -1177,12 +1299,21 @@ must
 
 
 ` have been previously
-ascertained by law, and to be informed of the nature and cause of the
-accusation; to be confronted with the witnesses against him; to have compulsory
-process for obtaining witnesses in his favor, and to have the Assistance of
-Counsel for his defence.
+=======
+No person must be held to answer for a capital, or otherwise infamous crime,
+unless on a presentment or indictment of a Grand Jury, except in cases arising
+in the land or naval forces, or in the Militia, when in actual service in time
+of War or public danger; nor must any person be subject for the same offense
+to be twice put in jeopardy of life or limb; nor must be compelled in any
+criminal case to be a witness against himself, nor be deprived of life,
+liberty, or property, without due process of law; nor must private property be
+taken for public use, without just compensation.
 
-Amendment 7
+Amendment 6
+In all criminal prosecutions, the accused must enjoy the right to a speedy and
+public trial, by an impartial jury of the State and district wherein the crime
+must have been committed, which district must have been previously
+
 In Suits at common law, where the value in controversy must
 
 
@@ -1209,22 +1340,24 @@ The enumeration in the Constitution, of certain rights, must
 
 
 ` not be construed
-to deny or disparage others retained by the people.
+=======
+In Suits at common law, where the value in controversy must exceed twenty
+dollars, the right of trial by jury must be preserved, and no fact tried by a
+jury, must be otherwise re-examined in any Court of the United States, than
+according to the rules of the common law.
 
-Amendment 10
-The powers not delegated to the United States by the Constitution, nor
-prohibited by it to the States, are reserved to the States respectively, or to
-the people.
+Amendment 8
+Excessive bail must not be required, nor excessive fines imposed, nor cruel
+and unusual punishments inflicted.
 
-Amendment 11
+Amendment 9
+The enumeration in the Constitution, of certain rights, must not be construed
 The Judicial power of the United States must
 
 
 ` not be construed to extend to any
-suit in law or equity, commenced or prosecuted against one of the United States
-by Citizens of another State, or by Citizens or Subjects of any Foreign State.
-
-Amendment 12
+=======
+The Judicial power of the United States must not be construed to extend to any
 The Electors must
 
 
@@ -1319,10 +1452,41 @@ constitutionally ineligible to the office of President must
 
 
 ` be eligible to
-that of Vice-President of the United States.
+=======
+The Electors must meet in their respective states, and vote by ballot for
+President and Vice-President, one of whom, at least, must not be an inhabitant
+of the same state with themselves; they must name in their ballots the person
+voted for as President, and in distinct ballots the person voted for as
+Vice-President, and they must make distinct lists of all persons voted for as
+President, and of all persons voted for as Vice-President and of the number of
+votes for each, which lists they must sign and certify, and transmit sealed to
+the seat of the government of the United States, directed to the President of
+the Senate;
 
-Amendment 13
-1. Neither slavery nor involuntary servitude, except as a punishment for crime
+The President of the Senate must, in the presence of the Senate and House of
+Representatives, open all the certificates and the votes must then be counted;
+
+The person having the greatest Number of votes for President, must be the
+President, if such number be a majority of the whole number of Electors
+appointed; and if no person have such majority, then from the persons having
+the highest numbers not exceeding three on the list of those voted for as
+President, the House of Representatives must choose immediately, by ballot,
+the President. But in choosing the President, the votes must be taken by
+states, the representation from each state having one vote; a quorum for this
+purpose must consist of a member or members from two-thirds of the states, and
+a majority of all the states must be necessary to a choice. And if the House
+of Representatives must not choose a President whenever the right of choice
+must devolve upon them, before the fourth day of March next following, then
+the Vice-President must act as President, as in the case of the death or other
+constitutional disability of the President.
+
+The person having the greatest number of votes as Vice-President, must be the
+Vice-President, if such number be a majority of the whole number of Electors
+appointed, and if no person have a majority, then from the two highest numbers
+on the list, the Senate must choose the Vice-President; a quorum for the
+purpose must consist of two-thirds of the whole number of Senators, and a
+majority of the whole number must be necessary to a choice. But no person
+constitutionally ineligible to the office of President must be eligible to
 whereof the party must
 
 
@@ -1336,12 +1500,12 @@ States, or any place subject to their jurisdiction.
 
 
 ` have power to enforce this article by appropriate
-legislation.
+=======
+whereof the party must have been duly convicted, must exist within the United
+States, or any place subject to their jurisdiction.
 
-Amendment 14
-1. All persons born or naturalized in the United States, and subject to the
-jurisdiction thereof, are citizens of the United States and of the State
-wherein they reside. No State must
+2. Congress must have power to enforce this article by appropriate
+herein they reside. No State must
 
 
 ` make or enforce any law which must
@@ -1352,21 +1516,15 @@ the privileges or immunities of citizens of the United States; nor must
 
 
 ` any
-State deprive any person of life, liberty, or property, without due process of
-law; nor deny to any person within its jurisdiction the equal protection of the
-laws.
-
+=======
+wherein they reside. No State must make or enforce any law which must abridge
+the privileges or immunities of citizens of the United States; nor must any
 2. Representatives must
 
 
 ` be apportioned among the several States according to
-their respective numbers, counting the whole number of persons in each State,
-excluding Indians not taxed. But when the right to vote at any election for the
-choice of electors for President and Vice-President of the United States,
-Representatives in Congress, the Executive and Judicial officers of a State, or
-the members of the Legislature thereof, is denied to any of the male
-inhabitants of such State, being twenty-one years of age, and citizens of the
-United States, or in any way abridged, except for participation in rebellion,
+=======
+2. Representatives must be apportioned among the several States according to
 or other crime, the basis of representation therein must
 
 
@@ -1381,91 +1539,26 @@ number of male citizens twenty-one years of age in such State.
 
 
 ` be a Senator or Representative in Congress, or elector of
-President and Vice-President, or hold any office, civil or military, under the
-United States, or under any State, who, having previously taken an oath, as a
-member of Congress, or as an officer of the United States, or as a member of
-any State legislature, or as an executive or judicial officer of any State, to
-support the Constitution of the United States, must
+=======
+or other crime, the basis of representation therein must be reduced in the
+proportion which the number of such male citizens must bear to the whole
+number of male citizens twenty-one years of age in such State.
 
-
-` have engaged in
+3. No person must be a Senator or Representative in Congress, or elector of
 insurrection or rebellion against the same, or given aid or comfort to the
 enemies thereof. But Congress may by a vote of two-thirds of each House, remove
 such disability.
 
 4. The validity of the public debt of the United States, authorized by law,
 including debts incurred for payment of pensions and bounties for services in
-suppressing insurrection or rebellion, must
-
-
-` not be questioned. But neither the
-United States nor any State must
-
-
-` assume or pay any debt or obligation incurred
-in aid of insurrection or rebellion against the United States, or any claim for
-the loss or emancipation of any slave; but all such debts, obligations and
-claims must
-
-
-` be held illegal and void.
-
-5. The Congress must
-
-
-` have power to enforce, by appropriate legislation, the
-provisions of this article.
-
-Amendment 15
-1. The right of citizens of the United States to vote must
-
-
-` not be denied or
-abridged by the United States or by any State on account of race, color, or
-previous condition of servitude.
-
-2. The Congress must
-
-
-` have power to enforce this article by appropriate
-legislation.
-
-Amendment 16
-The Congress must
-
-
-` have power to lay and collect taxes on incomes, from
 whatever source derived, without apportionment among the several States, and
 without regard to any census or enumeration.
 
 Amendment 17
-The Senate of the United States must
-
-
-` be composed of two Senators from each
-State, elected by the people thereof, for six years; and each Senator must
-
-
-`
-have one vote. The electors in each State must
-
-
-` have the qualifications
-requisite for electors of the most numerous branch of the State legislatures.
-
-When vacancies happen in the representation of any State in the Senate, the
-executive authority of such State must
-
-
-` issue writs of election to fill such
 vacancies: Provided, That the legislature of any State may empower the
 executive thereof to make temporary appointments until the people fill the
 vacancies by election as the legislature may direct.
 
-This amendment must
-
-
-` not be so construed as to affect the election or term of
 any Senator chosen before it becomes valid as part of the Constitution.
 
 Amendment 18
@@ -1474,24 +1567,12 @@ or transportation of intoxicating liquors within, the importation thereof into,
 or the exportation thereof from the United States and all territory subject to
 the jurisdiction thereof for beverage purposes is hereby prohibited.
 
-2. The Congress and the several States must
-
-
-` have concurrent power to enforce
-this article by appropriate legislation.
-
-3. This article must
-
-
-` be inoperative unless it must
-
-
-` have been ratified as an
 amendment to the Constitution by the legislatures of the several States, as
 provided in the Constitution, within seven years from the date of the
 submission hereof to the States by the Congress.
 
 Amendment 19
+
 The right of citizens of the United States to vote must
 
 
@@ -1598,16 +1679,44 @@ ratification of this article.
 
 
 ` have been ratified as an
-amendment to the Constitution by the legislatures of three-fourths of the
-several States within seven years from the date of its submission.
+=======
+The right of citizens of the United States to vote must not be denied or
+abridged by the United States or by any State on account of sex.
 
-Amendment 21
-1. The eighteenth article of amendment to the Constitution of the United States
-is hereby repealed.
+Congress must have power to enforce this article by appropriate legislation.
 
-2. The transportation or importation into any State, Territory, or possession
-of the United States for delivery or use therein of intoxicating liquors, in
-violation of the laws thereof, is hereby prohibited.
+Amendment 20
+1. The terms of the President and Vice President must end at noon on the 20th
+day of January, and the terms of Senators and Representatives at noon on the 3d
+day of January, of the years in which such terms would have ended if this
+article had not been ratified; and the terms of their successors must then
+begin.
+
+2. The Congress must assemble at least once in every year, and such meeting
+must begin at noon on the 3d day of January, unless they must by law appoint
+a different day.
+
+3. If, at the time fixed for the beginning of the term of the President, the
+President elect must have died, the Vice President elect must become
+President. If a President must not have been chosen before the time fixed for
+the beginning of his term, or if the President elect must have failed to
+qualify, then the Vice President elect must act as President until a President
+must have qualified; and the Congress may by law provide for the case wherein
+neither a President elect nor a Vice President elect must have qualified,
+declaring who must then act as President, or the manner in which one who is to
+act must be selected, and such person must act accordingly until a President
+or Vice President must have qualified.
+
+4. The Congress may by law provide for the case of the death of any of the
+persons from whom the House of Representatives may choose a President whenever
+the right of choice must have devolved upon them, and for the case of the
+death of any of the persons from whom the Senate may choose a Vice President
+whenever the right of choice must have devolved upon them.
+
+5. Sections 1 and 2 must take effect on the 15th day of October following the
+ratification of this article.
+
+6. This article must be inoperative unless it must have been ratified as an
 
 3. The article must
 
@@ -1616,11 +1725,8 @@ violation of the laws thereof, is hereby prohibited.
 
 
 ` have been ratified as an
-amendment to the Constitution by conventions in the several States, as provided
-in the Constitution, within seven years from the date of the submission hereof
-to the States by the Congress.
-
-Amendment 22
+=======
+3. The article must be inoperative unless it must have been ratified as an
 1. No person must
 
 
@@ -1639,122 +1745,59 @@ Article was proposed by the Congress, and must
 
 
 ` not prevent any person who may
-be holding the office of President, or acting as President, during the term
-within which this Article becomes operative from holding the office of
-President or acting as President during the remainder of such term.
-
-2. This article must
-
-
-` be inoperative unless it must
-
-
-` have been ratified as an
+=======
+1. No person must be elected to the office of the President more than twice,
+and no person who has held the office of President, or acted as President, for
+more than two years of a term to which some other person was elected President
+must be elected to the office of the President more than once. But this
+Article must not apply to any person holding the office of President, when this
+Article was proposed by the Congress, and must not prevent any person who may
 amendment to the Constitution by the legislatures of three-fourths of the
 several States within seven years from the date of its submission to the States
 by the Congress.
 
 Amendment 23
 1. The District constituting the seat of Government of the United States must
-
-
-`
-appoint in such manner as the Congress may direct: A number of electors of
-President and Vice President equal to the whole number of Senators and
-Representatives in Congress to which the District would be entitled if it were
-a State, but in no event more than the least populous State; they must
-
-
-` be in
-addition to those appointed by the States, but they must
-
-
-` be considered, for
-the purposes of the election of President and Vice President, to be electors
-appointed by a State; and they must
-
-
-` meet in the District and perform such
-duties as provided by the twelfth article of amendment.
-
-2. The Congress must
-
-
-` have power to enforce this article by appropriate
 legislation.
 
 Amendment 24
 1. The right of citizens of the United States to vote in any primary or other
 election for President or Vice President, for electors for President or
-Vice President, or for Senator or Representative in Congress, must
-
-
-` not be
-denied or abridged by the United States or any State by reason of failure to
-pay any poll tax or other tax.
-
-2. The Congress must
-
-
-` have power to enforce this article by appropriate
 legislation.
 
 Amendment 25
 1. In case of the removal of the President from office or of his death or
-resignation, the Vice President must
-
-
-` become President.
-
-2. Whenever there is a vacancy in the office of the Vice President, the
-President must
-
-
-` nominate a Vice President who must
-
-
-` take office upon
 confirmation by a majority vote of both Houses of Congress.
 
 3. Whenever the President transmits to the President pro tempore of the Senate
 and the Speaker of the House of Representatives his written declaration that he
 is unable to discharge the powers and duties of his office, and until he
 transmits to them a written declaration to the contrary, such powers and duties
+
 must
 
 
 ` be discharged by the Vice President as Acting President.
-
-4. Whenever the Vice President and a majority of either the principal officers
-of the executive departments or of such other body as Congress may by law
-provide, transmit to the President pro tempore of the Senate and the Speaker of
-the House of Representatives their written declaration that the President is
-unable to discharge the powers and duties of his office, the Vice President
+=======
+must be discharged by the Vice President as Acting President.
 must
 
 
 ` immediately assume the powers and duties of the office as Acting
-President.
-
-Thereafter, when the President transmits to the President pro tempore of the
-Senate and the Speaker of the House of Representatives his written declaration
+=======
+must immediately assume the powers and duties of the office as Acting
 that no inability exists, he must
 
 
 ` resume the powers and duties of his office
-unless the Vice President and a majority of either the principal officers of
-the executive department or of such other body as Congress may by law provide,
-transmit within four days to the President pro tempore of the Senate and the
-Speaker of the House of Representatives their written declaration that the
-President is unable to discharge the powers and duties of his office. Thereupon
+=======
+that no inability exists, he must resume the powers and duties of his office
 Congress must
 
 
 ` decide the issue, assembling within forty eight hours for that
-purpose if not in session. If the Congress, within twenty one days after
-receipt of the latter written declaration, or, if Congress is not in session,
-within twenty one days after Congress is required to assemble, determines by
-two thirds vote of both Houses that the President is unable to discharge the
+=======
+Congress must decide the issue, assembling within forty eight hours for that
 powers and duties of his office, the Vice President must
 
 
@@ -1763,10 +1806,9 @@ the same as Acting President; otherwise, the President must
 
 
 ` resume the powers
-and duties of his office.
-
-Amendment 26
-1. The right of citizens of the United States, who are eighteen years of age or
+=======
+powers and duties of his office, the Vice President must continue to discharge
+the same as Acting President; otherwise, the President must resume the powers
 older, to vote must
 
 
@@ -1777,10 +1819,11 @@ State on account of age.
 
 
 ` have power to enforce this article by appropriate
-legislation.
+=======
+older, to vote must not be denied or abridged by the United States or by any
+State on account of age.
 
-Amendment 27
-No law, varying the compensation for the services of the Senators and
+2. The Congress must have power to enforce this article by appropriate
 Representatives, must
 
 
@@ -1788,4 +1831,5 @@ Representatives, must
 
 
 `
-have intervened.
+=======
+Representatives, must take effect, until an election of Representatives must
